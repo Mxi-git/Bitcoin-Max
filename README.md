@@ -1,20 +1,20 @@
-Bitcoin Core integration/staging tree
-=====================================
+Bitcoin Core Max integration/staging tree
+=========================================
 
-https://bitcoincore.org
+https://bitcoincore.mx
 
-What is Bitcoin?
-----------------
+What is Bitcoin Max?
+--------------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+Bitcoin Max is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Based on Bitcoin, Bitcoin Max uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately usable, binary version of
-the Bitcoin Core software, see https://bitcoincore.org/en/download/, or read the
-[original whitepaper](https://bitcoincore.org/bitcoin.pdf).
+the Bitcoin Core software, see https://bitcoincore.mx/en/download/, or read the
+[original whitepaper](https://bitcoincore.mx/bitcoin.pdf).
 
 License
 -------
